@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## MARXVIM ADMINISTRATOR
+
+[LINK TO MARXVIM WEBSITE](www.marxvim.com)
+## PAGE DEV INSTRUCTIONS
 
 You can use the [editor on GitHub](https://github.com/marxvimAdmin/marxvimAdmin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
