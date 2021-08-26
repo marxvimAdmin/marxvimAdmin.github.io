@@ -1,2 +1,2 @@
 # MARXVIM ADMIN
-[Link to marxvim Admin webpage](marxvimAdmin.github.io)
+[Link to marxvim Admin webpage](https://marxvimAdmin.github.io)
